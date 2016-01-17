@@ -52,7 +52,7 @@
 			<email>leleuj@gmail.com</email>
 		</developer>
 	</developers>
-ac4j
+
 	<repositories>
 		<repository>
 			<id>scribe-java-mvn-repo</id>
