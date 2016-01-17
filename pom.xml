@@ -52,7 +52,7 @@
 			<email>leleuj@gmail.com</email>
 		</developer>
 	</developers>
-
+ac4j
 	<repositories>
 		<repository>
 			<id>scribe-java-mvn-repo</id>
@@ -75,7 +75,9 @@
 		<module>pac4j-saml</module>
 		<module>pac4j-gae</module>
 		<module>pac4j-oidc</module>
+		<!--
 		<module>pac4j-jwt</module>
+		-->
 		<module>pac4j-ldap</module>
 		<module>pac4j-sql</module>
 		<module>pac4j-mongo</module>
